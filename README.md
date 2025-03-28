@@ -21,6 +21,11 @@ You'll find all the stuff I made for this project, including:
 * Some cool visuals and the project logo (PNGs).
 * Maybe some extra notes and the presentation (PDFs).
 
+## Certificatification?
+
+You will also find my
+* CMI Level 7 Certificate in Strategic Management and Leadership Practice from the Chartered Management Institute  
+
 ## License
 
 This is all under the Apache License Version 2.0. Check out the `LICENSE` file for the details.
